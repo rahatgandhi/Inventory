@@ -1,6 +1,10 @@
+
 # AngularTestApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+
+# InstallnodeModules
+Run npm i to install node module 
 
 ## Development server
 
